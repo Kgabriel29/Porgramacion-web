@@ -1,0 +1,31 @@
+body{
+    background-color: coral;
+}
+h1{
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+img{
+ height: ;
+ border: black 1px;
+ border-style: solid;
+}
+
+.img-rounded{
+    border-radius: 30px;
+}
+
+.color-text{
+    color: white;
+}
+ul{
+    color: white;
+}
